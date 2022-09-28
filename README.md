@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-light.svg" alt="Tailwind CSS" width="350" height="70">
   </a>
   <a href="https://tailwindcss.com/#gh-dark-mode-only" target="_blank">
-    <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg/.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
+    <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
   </a>
 </p>
 
